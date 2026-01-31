@@ -22,5 +22,4 @@ provided by **Innomatics Research Labs**.
 This project is submitted as part of the internship evaluation conducted by  
 **Innomatics Research Labs**.
 
-## Note
-The notebook is self-contained and includes all code and results required for evaluation.
+## -Srigowri
